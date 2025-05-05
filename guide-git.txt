@@ -1,0 +1,5 @@
+Git è un sistema di controllo di versione distribuito, utilizzato per tracciare le modifiche al codice sorgente durante lo sviluppo di software. È utile perché consente a più sviluppatori di lavorare contemporaneamente sullo stesso progetto senza conflitti. Permette di creare branch per sviluppare nuove funzionalità in modo isolato, mantenendo il codice principale stabile. Inoltre, offre la possibilità di tornare a versioni precedenti del progetto, rendendo più semplice correggere errori. La sua natura distribuita garantisce che ogni sviluppatore abbia una copia completa del repository, migliorando la collaborazione e la sicurezza.
+È
+un
+bel
+programma
