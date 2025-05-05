@@ -1,5 +1,8 @@
-Git è un sistema di controllo di versione distribuito, utilizzato per tracciare le modifiche al codice sorgente durante lo sviluppo di software. È utile perché consente a più sviluppatori di lavorare contemporaneamente sullo stesso progetto senza conflitti. Permette di creare branch per sviluppare nuove funzionalità in modo isolato, mantenendo il codice principale stabile. Inoltre, offre la possibilità di tornare a versioni precedenti del progetto, rendendo più semplice correggere errori. La sua natura distribuita garantisce che ogni sviluppatore abbia una copia completa del repository, migliorando la collaborazione e la sicurezza.
-È
-un
-bel
-programma
+Git è un sistema di controllo di versione distribuito, utilizzato per tracciare le modifiche al codice sorgente durante lo sviluppo di software. 
+È utile perché consente a più sviluppatori di lavorare contemporaneamente sullo stesso progetto senza conflitti. 
+Permette di creare branch per sviluppare nuove funzionalità in modo isolato, mantenendo il codice principale stabile. 
+Inoltre, offre la possibilità di tornare a versioni precedenti del progetto, rendendo più semplice correggegittre errori. 
+La sua natura distribuita garantisce che ogni sviluppatore abbia una copia completa del repository, migliorando la collaborazione e la sicurezza.
+Per usare Git in VS Code, apri il progetto e accedi alla scheda "Source Control" (icona con il simbolo di Git). 
+Puoi inizializzare un repository Git, fare commit, creare branch e gestire le modifiche direttamente dall'interfaccia. 
+Inoltre, puoi utilizzare il terminale integrato per eseguire comandi Git avanzati.
